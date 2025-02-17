@@ -5,6 +5,7 @@ La funcionalidad de este codigo es para calcular la velocidad de descarga y de s
 
 
 
-![image](https://github.com/user-attachments/assets/75004f01-caa7-4455-bdb2-48385fb691cd)
+![image](https://github.com/user-attachments/assets/dd4a0637-1c89-4d43-8601-4d2fb30a680d)
+
 
 
